@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\faculdade\robson 12.05\exercicio2\obj\Debug\net8.0\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\robson 12.05\exercicio2\obj\Debug\net8.0\exercicio2.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\robson 12.05\exercicio2\obj\Debug\net8.0\exercicio2.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\robson 12.05\exercicio2\obj\Debug\net8.0\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\robson 12.05\exercicio2\bin\Debug\net8.0\exercicio2.exe
+C:\Users\gabri\Desktop\faculdade\robson 12.05\exercicio2\bin\Debug\net8.0\exercicio2.deps.json
+C:\Users\gabri\Desktop\faculdade\robson 12.05\exercicio2\bin\Debug\net8.0\exercicio2.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\robson 12.05\exercicio2\bin\Debug\net8.0\exercicio2.dll
+C:\Users\gabri\Desktop\faculdade\robson 12.05\exercicio2\bin\Debug\net8.0\exercicio2.pdb
+C:\Users\gabri\Desktop\faculdade\robson 12.05\exercicio2\obj\Debug\net8.0\exercicio2.dll
+C:\Users\gabri\Desktop\faculdade\robson 12.05\exercicio2\obj\Debug\net8.0\refint\exercicio2.dll
+C:\Users\gabri\Desktop\faculdade\robson 12.05\exercicio2\obj\Debug\net8.0\exercicio2.pdb
+C:\Users\gabri\Desktop\faculdade\robson 12.05\exercicio2\obj\Debug\net8.0\exercicio2.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\robson 12.05\exercicio2\obj\Debug\net8.0\ref\exercicio2.dll
